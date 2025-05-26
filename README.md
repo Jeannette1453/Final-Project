@@ -15,9 +15,9 @@ Email/SMS Notifications
 Admin, Driver & Passenger Dashboards
 
  Database Note
-Make sure to import or set up the required database to run the system successfully. This may include tables for:
+ This include tables for:
 
-Users
+Passengers
 
 Vehicles
 
@@ -26,3 +26,4 @@ Routes
 Bookings
 
 Payments
+Admin
